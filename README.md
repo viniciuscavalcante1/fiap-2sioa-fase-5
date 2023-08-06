@@ -6,3 +6,6 @@ Tópicos: Python, Linguagens de Programação Multiparadigmas, Algoritmos e Estr
 
 ### C2: Python 
 Tópicos: Python, PVM - Python Virtual Machine, Guido Van Rossum, Linguagens de Programação Interpretadas, Linguagens de Programação Multiparadigmas, Linguagens de Programação de Alto Nível, Versões do Python, função input(), função int(), função print(), arquivos .py, PyCharm, IDE - Integrated Development Enviornment, f-strings, função float()
+
+### C3: Python
+Tópicos: Python, Desvios Condicionais, inferência do tipo de uma variável, função type(), função len(), conversão de int() para float() e vice-versa, métodos de Strings (str.upper(), str.lower(), str.split()), Desvios Condicionais Simples, Desvios Condicionais Compostos, Desvio Condicionais Encadeados, If, Else, Elif, função abs(), operador and, operador or, biblioteca math, método math.sqrt
