@@ -9,3 +9,6 @@ Tópicos: Python, PVM - Python Virtual Machine, Guido Van Rossum, Linguagens de 
 
 ### C3: Python
 Tópicos: Python, Desvios Condicionais, inferência do tipo de uma variável, função type(), função len(), conversão de int() para float() e vice-versa, métodos de Strings (str.upper(), str.lower(), str.split()), Desvios Condicionais Simples, Desvios Condicionais Compostos, Desvio Condicionais Encadeados, If, Else, Elif, função abs(), operador and, operador or, biblioteca math, método math.sqrt
+
+### C4:
+Tópicos: Loops, Loops While, Loops For, variáveis contadoras, iterações, função range()
