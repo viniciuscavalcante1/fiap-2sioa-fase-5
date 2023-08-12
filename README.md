@@ -12,3 +12,6 @@ Tópicos: Python, Desvios Condicionais, inferência do tipo de uma variável, fu
 
 ### C4:
 Tópicos: Python, Loops, Loops While, Loops For, variáveis contadoras, iterações, função range()
+
+### C5:
+Tópicos: Listas, Funções, Módulos, método de listas append(), método insert(), método pop(), método remove(), função len(), método count(), método reverse(), método sort(), Parâmetros, Argumentos, Return, Import, Type hint, função sum()
