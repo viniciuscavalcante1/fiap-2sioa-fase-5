@@ -18,3 +18,6 @@ Tópicos: Listas, Funções, Módulos, método de listas append(), método inser
 
 ### Cap 6 - Dictionary... help please!
 Tópicos: Python, Tuplas, Dicionários, função sys.getsizeof(), desempacotamento de Tuplas, iteração de Tuplas, método de Dicionários values(), método de Dicionários keys(), método de Dicionários items(), inserção de novos valores em Dicionários, remoção de valores de Dicionários com o método pop(), método de Dicionários popitem(), método de Dicionários clear(), Dicionários aninhados, Mutabilidade
+
+### Cap 7 - De voláteis a persistentes
+Tópicos: Manipulação de arquivos com Python, função do Python open() e parâmetros encoding e mode, quando armazenar dados em arquivos vs banco de dados, método de arquivo read(), método de arquivo readline(), método de arquivo readlines(), método de arquivo close(), método de arquivo write(), formato json, pacote json, método json.dumps com parâmetro indent, criação do json, método json.loads(), comando do Python with, slicing de Strings, método de strings find()
