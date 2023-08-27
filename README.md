@@ -33,3 +33,6 @@ Tópicos: Os mesmos tópicos do capítulo anterior.
 
 ### Cap 10 - Recursão Nossa de Cada Dia
 Tópicos: Definição de Recursividade. Condições de parada, cálculo de fatorial e MDC utilizando Funções recursivas. Chamadas e ativações, grafo e representação visual de recursões e profundidade de recursões.
+
+### Cap 10 LAB - Aplicando a Recursão em Python
+Tópicos: Recursão em Python.
