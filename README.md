@@ -36,3 +36,5 @@ Tópicos: Definição de Recursividade. Condições de parada, cálculo de fator
 
 ### Cap 10 LAB - Aplicando a Recursão em Python
 Tópicos: Recursão em Python.
+
+### Cap 11 - ERROS EM COMPUTAÇÃO, COMO ASSIM?
