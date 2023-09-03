@@ -37,4 +37,6 @@ Tópicos: Definição de Recursividade. Condições de parada, cálculo de fator
 ### Cap 10 LAB - Aplicando a Recursão em Python
 Tópicos: Recursão em Python.
 
-### Cap 11 - ERROS EM COMPUTAÇÃO, COMO ASSIM?
+### Cap 11 - Erros em Computação? Como assim?
+Tópicos: Erros em computação; precisão e exatidão; incerteza; representação de números no sistema binário; incerteza absoluta e incerteza relativa; bases numéricas e conversões entre binário e decimal, decimal e binário; Sistema binário; método das divisões sucessivas; método das multiplicações sucessivas; números reais em binário; ponto fixo e ponto flutuante; erros em conversões entre as bases decimal-binário de ponto flutuante; dízima periódica em binário; arredondamento e truncamento; sistema de ponto flutuante F(b, n, emin, emax); sinal, expoente e mantissa; mantissa; byte; bit; Notação científica; normalização de ponto flutuante; overflow e underflow; erros absolutos e erros relativos;
+
